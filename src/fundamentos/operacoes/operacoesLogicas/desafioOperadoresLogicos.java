@@ -18,6 +18,8 @@ public class desafioOperadoresLogicos {
             System.out.println("Vamos ao cinema!");
         } else {
             System.out.println("Nenhum dos trabalhos deram certo... =(");
+
+        entrada.close();
         }
     }
 }
