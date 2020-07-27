@@ -3,6 +3,7 @@ package fundamentos.input;
 import java.util.Scanner;
 
 public class input {
+
     public static void main(String[] args) {
         Scanner entrada = new Scanner(System.in);
         System.out.print("Digite o seu nome: ");
@@ -12,9 +13,9 @@ public class input {
         System.out.print("Digite o sua idade: ");
         int idade = entrada.nextInt();
 
-        ///entrada.nextDouble();
+        // entrada.nextDouble();
 
-        //System.out.println("\n\nNome: " + nome + "" + sobrenome);
+        // System.out.println("\n\nNome: " + nome + "" + sobrenome);
         System.out.printf("%s %s tem %d anos.%n", nome, sobrenome, idade);
 
         entrada.close();
