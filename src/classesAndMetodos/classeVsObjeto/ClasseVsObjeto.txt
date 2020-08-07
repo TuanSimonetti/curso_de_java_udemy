@@ -14,3 +14,12 @@ A CLASSE representa uma ABSTRAÇÃO. Em outras palavras, a CLASSE representa uma
 
 A partir de uma classe, nós criamos objetos (que representam os dados).
 OBJETOS e INSTÂNCIAS são sinônimos.
+
+Dentro das classes há:
+* váriaveis/Constantes:
+* Constutores:
+* Métodos:
+* Classes:
+
+OBS: todos eles são atributos de uma classe.
+
